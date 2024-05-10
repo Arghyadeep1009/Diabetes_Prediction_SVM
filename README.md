@@ -1,5 +1,3 @@
-Absolutely! Here's an updated README.MD incorporating the Streamlit web app functionality:
-
 ## Women Diabetes Prediction Web App
 
 This project implements a Support Vector Machine (SVM) model to predict diabetes using the Pima Indians Diabetes Dataset. It's deployed as a Streamlit web app allowing users to interact and get predictions directly.
